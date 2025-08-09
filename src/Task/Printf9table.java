@@ -13,6 +13,7 @@ public class Printf9table {
             System.out.printf("%d x %d = %d", 9, 8, 72).println();
             System.out.printf("%d x %d = %d", 9, 9, 81).println();
             System.out.printf("%d x %d = %d", 9, 10, 90).println();
+            System.out.println("Table completed");
 
     }
 }
